@@ -1,0 +1,4 @@
+graph "my-tree" {
+	ab1 -- a0
+	ab1 -- b0
+}
